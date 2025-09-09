@@ -1,0 +1,27 @@
+.cross-button{
+    border: 1px solid grey;
+    border-radius: 50%;
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-top: 1.4rem;
+    margin-right: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cross-button:hover{
+    background-color: gray;
+}
+
+.cart-item-img{
+    height: 5rem;
+    width: 5rem;
+}
+
+.cart-qty-input{
+    height: 1rem;
+    width: 10px;
+    background-color: red;
+    margin-left: 2rem;
+}
